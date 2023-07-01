@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658912028669",
+    "project_id": "instagram-new-bdcf2",
+    "storage_bucket": "instagram-new-bdcf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658912028669:android:4add1a39ec5973d7041b94",
+        "android_client_info": {
+          "package_name": "com.krashkrosh748199.instragramnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658912028669-hrpt83ctn5qienn3btbq7fv525ic8q6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUVwhbgmxVeauKKVhmJ2YrHaiB8OPHKiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658912028669-hrpt83ctn5qienn3btbq7fv525ic8q6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
